@@ -25,7 +25,7 @@ function App() {
   const renderWin = () => {
     return (
       <div class="container victoire">
-        <h3 class="bonaniv"> Bonne anniversaire Titi !</h3>
+        <h3 class="bonaniv"> Bon anniversaire Titi !</h3>
       </div>
     );
   };
